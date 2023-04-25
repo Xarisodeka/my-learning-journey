@@ -66,7 +66,13 @@
   - Αν θες να χρωματίσεις τον κύκλο βάζεις ένα fill='a color' αμέσως μετά την ακτίνα του κύκλου
   - Επίσης δεν πρέπει ποτέ να ξεχνάμε να βάζουμε κόμμα, να τα βάζουμε με την σειρά που πρέπει (την παραπάνω) έτσι ώστε να μην μας βγάζει έρορ
   - Κάτι ακόμα που μπορούμε να κάνουμε είναι να βάλουμε έναν κύκλο πάνω στον άλλον (αυτό είναι πολύ απλό, απλά ο πρώτος κύκλος, αυτόν που έγραψες πρώτο, θα καλυφθεί από τον δεύτερο αν τοποθετηθούν στην ίδια θέση) 
-  ## Mάθημα 8-Εκπαιδευτικοί Σύνδεσμοι Python
-   - [Computer science curriculum: free for all, designed for you.
+## Mάθημα 8-Εκπαιδευτικοί Σύνδεσμοι Python
+- [Computer science curriculum: free for all, designed for you.
 ](https://academy.cs.cmu.edu/)
-   - [thirty days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [thirty days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+- [Python online](https://www.programiz.com/python-programming/online-compiler/)
+## Μάθημα 9-Data types της Python
+ - Μιλήσαμε για τους τύπους δεδομένων της Python και αναφέραμε κάποιους όπως οι:
+    - Lists-Λίστες
+    - Numbers:inter=ger&float-Αριθμό:Ακέραιοι και Δεκαδικοί
+    - Booleans:Απαντάμε με true ή false, κλπ
